@@ -166,7 +166,7 @@ export default function GOV() {
       <div style={{ width: "100%", position: 'relative' }}>
         <div className="container-padding">
           <Head>
-            <title>About Vehya</title>
+            <title>Ntech Product Branding</title>
             <meta property="og:title" content={'Vehya'} />
             <meta
               property="og:description"

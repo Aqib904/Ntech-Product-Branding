@@ -93,7 +93,7 @@ export default function ServicePros() {
       <div style={{ width: "100%", position: 'relative' }}>
         <div className="container-padding">
           <Head>
-            <title>About Vehya</title>
+            <title>Ntech Product Brandinga</title>
             <meta property="og:title" content={'Vehya'} />
             <meta
               property="og:description"
