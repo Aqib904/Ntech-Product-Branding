@@ -143,13 +143,13 @@ export default function Utilities() {
 	return (
 		<>
 			<NextSeo
-				title={'Vehya'}
+				title={'Ntech'}
 				description={'NTech Product Branding is the premier app for electrical contractors and electricians looking to expand their services to the rapidly growing electric vehicle market. With the ability to serve customers globally and access to in-app training programs for everyone to become an EV service provider, you can be sure that you have the skills and knowledge necessary to provide top-notch service.'}
 				canonical={`https://aboutvehya.com/Utilities`}
 				openGraph={{
 					type: "article",
 					url: `https://aboutvehya.com/Utilities`,
-					title: 'Vehya',
+					title: 'NTech',
 					description: 'NTech Product Branding is  the premier app for electrical contractors and electricians looking to expand their services to the rapidly growing electric vehicle market. With the ability to serve customers globally and access to in-app training programs for everyone to become an EV service provider, you can be sure that you have the skills and knowledge necessary to provide top-notch service.',
 					images: [
 						{
