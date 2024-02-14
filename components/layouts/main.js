@@ -10,7 +10,7 @@ function PageTemplate({ children }) {
   const router = useRouter();
   const [titleLink, setTitleLink] = useState("");
   useEffect(() => {
-    document.title = "About Vehya";
+    document.title = "Ntect Product Branding";
   }, []);
   return (
     <>
