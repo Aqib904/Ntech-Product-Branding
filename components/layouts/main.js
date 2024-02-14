@@ -15,7 +15,7 @@ function PageTemplate({ children }) {
   return (
     <>
       <Head>
-        <link rel="icon" href="/favicon.png" />
+        {/* <link rel="icon" href="/favicon.png" /> */}
         <meta name="viewport" content="width=device-width" />
       </Head>
 
