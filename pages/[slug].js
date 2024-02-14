@@ -119,7 +119,7 @@ console.log(imageUrl)
       />
       <div className="my-1 singl-article container-padding">
         <Head>
-          <title>About Vehya</title>
+          <title>About Ntech</title>
           <meta property="og:title" content={singleData?.Title} />
           <meta
             property="og:description"

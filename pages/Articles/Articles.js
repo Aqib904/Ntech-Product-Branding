@@ -137,7 +137,7 @@ export default function Articles({ data, page }) {
               </div>
             </Col>
           </Row>
-          <Row>
+          {/* <Row>
             <Col className="d-flex align-items-center justify-content-center">
               <Link
                 className="dark text-light rounded mt-3 py-3 px-3 text-decoration-none"
@@ -147,7 +147,7 @@ export default function Articles({ data, page }) {
                 Vehya Marketplace
               </Link>
             </Col>
-          </Row>
+          </Row> */}
         </>
       ) : (
         ""

@@ -185,7 +185,7 @@ export default function index() {
               </div>
             </Col>
           </Row>
-          <Row>
+          {/* <Row>
             <Col className="d-flex align-items-center justify-content-center">
               <Link
                 className="dark text-light rounded mt-2 py-3 px-3 text-decoration-none"
@@ -195,7 +195,7 @@ export default function index() {
                 Vehya Marketplace
               </Link>
             </Col>
-          </Row>
+          </Row> */}
         </div>
         <button className='scroll-btn btn' onClick={scrollToTop} style={{
 

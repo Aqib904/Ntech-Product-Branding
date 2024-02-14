@@ -461,7 +461,7 @@ export default function CPOs() {
 								</div>
 							</Col>
 						</Row>
-						<Row>
+						{/* <Row>
 							<Col className="d-flex align-items-center justify-content-center">
 								<Link
 									className="dark text-light rounded mt-2 py-3 px-3 text-decoration-none"
@@ -471,7 +471,7 @@ export default function CPOs() {
 									Vehya Marketplace
 								</Link>
 							</Col>
-						</Row>
+						</Row> */}
 					</div>
 
         </div>

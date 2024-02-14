@@ -66,7 +66,7 @@ export default function WorkForce() {
           <MainSection />
           <Features />
           <Demos />
-          <Row>
+          {/* <Row>
             <Col className="d-flex align-items-center justify-content-center">
               <Link
                 className="dark text-light rounded mt-2 py-3 px-3 text-decoration-none"
@@ -76,7 +76,7 @@ export default function WorkForce() {
                 Vehya Marketplace
               </Link>
             </Col>
-          </Row>
+          </Row> */}
         </div>
         <button className='scroll-btn btn' onClick={scrollToTop} style={{
 

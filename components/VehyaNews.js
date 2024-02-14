@@ -85,13 +85,13 @@ export const VehyaNews = () => {
                     </span>
                   </div>
                   <h6 className="vehya-news__privacy py-1">
-                    Vehya’s
+                    Ntech
                     {' '}
-                    <a href="https://www.vehya.com/#/TermsofService" style={{ color: 'white', borderBottom: 'white', textDecoration: 'underline' }}>Terms of Service</a>
+                    <a href="https://n-tech-psi.vercel.app/" style={{ color: 'white', borderBottom: 'white', textDecoration: 'underline' }}>Terms of Service</a>
                     {' '}
                     and
                     {' '}
-                    <a href="https://www.vehya.com/#/privacypolicy " style={{ color: 'white', borderBottom: 'white', textDecoration: 'underline' }}>Privacy Policy</a>
+                    <a href="https://n-tech-psi.vercel.app/ " style={{ color: 'white', borderBottom: 'white', textDecoration: 'underline' }}>Privacy Policy</a>
                     {' '}
                     apply.
                   </h6>

@@ -202,7 +202,7 @@ export default function Header() {
 									src="/logo1.png"
 									alt="Grouparoo Logo"
 									// width={"153px"}
-
+								    // height={"153px"}
 								/>
 							</Link>
 						</div>
@@ -214,7 +214,7 @@ export default function Header() {
 							<Link
 								className="text-dark" style={{ marginTop: "20px" }}
 								target="_blank"
-								href={"https://www.vehya.com/#/home"}
+								href={"https://n-tech-psi.vercel.app/"}
 							>
 								{/* <FaBars size={36} /> */}
 								<img src="/menu.png" alt="Menu" />
