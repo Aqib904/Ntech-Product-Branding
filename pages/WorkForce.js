@@ -33,13 +33,13 @@ export default function WorkForce() {
     <>
       <NextSeo
         title={'Vehya'}
-        description={'Vehya is the premier app for electrical contractors and electricians looking to expand their services to the rapidly growing electric vehicle market. With the ability to serve customers globally and access to in-app training programs for everyone to become an EV service provider, you can be sure that you have the skills and knowledge necessary to provide top-notch service.'}
+        description={'NTech Product Branding is the premier app for electrical contractors and electricians looking to expand their services to the rapidly growing electric vehicle market. With the ability to serve customers globally and access to in-app training programs for everyone to become an EV service provider, you can be sure that you have the skills and knowledge necessary to provide top-notch service.'}
         canonical={`https://aboutvehya.com/WorkForce`}
         openGraph={{
           type: "article",
           url: `https://aboutvehya.com/WorkForce`,
           title: 'Vehya',
-          description: 'Vehya is the premier app for electrical contractors and electricians looking to expand their services to the rapidly growing electric vehicle market. With the ability to serve customers globally and access to in-app training programs for everyone to become an EV service provider, you can be sure that you have the skills and knowledge necessary to provide top-notch service.',
+          description: 'NTech Product Branding is the premier app for electrical contractors and electricians looking to expand their services to the rapidly growing electric vehicle market. With the ability to serve customers globally and access to in-app training programs for everyone to become an EV service provider, you can be sure that you have the skills and knowledge necessary to provide top-notch service.',
           images: [
             {
               url: `https://www.dev.aboutvehya.com/logo1.png`,
@@ -55,7 +55,7 @@ export default function WorkForce() {
             <meta property="og:title" content={'Vehya'} />
             <meta
               property="og:description"
-              content={'Ntech Product Branding is the premier app for electrical contractors and electricians looking to expand their services to the rapidly growing electric vehicle market. With the ability to serve customers globally and access to in-app training programs for everyone to become an EV service provider, you can be sure that you have the skills and knowledge necessary to provide top-notch service.'}
+              content={'NTech Product Branding is  the premier app for electrical contractors and electricians looking to expand their services to the rapidly growing electric vehicle market. With the ability to serve customers globally and access to in-app training programs for everyone to become an EV service provider, you can be sure that you have the skills and knowledge necessary to provide top-notch service.'}
             />
             <meta
               name="image" property="og:image"
